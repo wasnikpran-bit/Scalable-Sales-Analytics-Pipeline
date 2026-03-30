@@ -121,7 +121,7 @@ Converted PySpark DataFrames → Pandas for visualization:
 * Top Products
 * Correlation Heatmap
 
-## ⚡ Scalability Demonstration
+##  Scalability Demonstration
 PySpark enables distributed processing through partitioning:
 python
 df = df.repartition(8)
@@ -132,36 +132,36 @@ df = df.repartition(8)
 * Lazy evaluation
 * Scalable to millions of records
 
-## 📈 Key Insights
+## Key Insights
 
-### 💡 Category Performance
+###  Category Performance
 
 * Technology category generates highest revenue
 
-### 🌍 Regional Profitability
+###  Regional Profitability
 
 * Some regions have high sales but low profit → heavy discounting
 
-### 💸 Discount Impact
+###  Discount Impact
 
 * Increased discounts → reduced profitability
 
-### 🏆 Product Analysis
+###  Product Analysis
 
 * Few products contribute to majority of sales (Pareto effect)
 
-### 📊 Market Trends
+###  Market Trends
 
 * Distinct purchasing behavior across global markets
 
-## ✅ Results
+##  Results
 
 * Built a **scalable analytics pipeline**
 * Demonstrated **distributed data processing**
 * Extracted **actionable business insights**
 * Visualized large-scale analytics effectively
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Spark SQL optimization
 * Window functions for advanced analytics
@@ -169,7 +169,7 @@ df = df.repartition(8)
 * Workflow orchestration using Apache Airflow
 * Deployment on cloud platforms (AWS / GCP / Azure)
 
-## 👨‍💻 Author
+##  Author
 
 **Pran Wasnik**
 Aspiring Data Engineer | Big Data Enthusiast
