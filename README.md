@@ -1,4 +1,4 @@
-Scalable Sales Analytics Pipeline using PySpark
+### Scalable Sales Analytics Pipeline using PySpark
 
 Overview:
 This project presents a **scalable end-to-end data analytics pipeline** built using **Apache PySpark** on the *Global Superstore dataset*. It demonstrates how large-scale datasets can be processed efficiently using distributed computing, following industry-standard data engineering and analytics practices.
@@ -35,20 +35,19 @@ Key Columns:
 
  Project Structure:
 Bigdata-PySpark-Sales-Analysis/
-│
-├── dataset/
-│   └── Global_Superstore2.csv
-│
-├── notebooks/
-│   └── pyspark_bigdata_analysis.ipynb
-│
-├── scripts/
-│   └── analysis_pipeline.py
-│
-├── images/
-│   └── charts.png
-│
-└── README.md
+dataset/
+Global_Superstore2.csv
+
+notebooks/
+pyspark_bigdata_analysis.ipynb
+
+scripts/
+analysis_pipeline.py
+
+images/
+charts.png
+
+README.md
 
 Tech Stack:
 * **Apache PySpark** – Distributed data processing
